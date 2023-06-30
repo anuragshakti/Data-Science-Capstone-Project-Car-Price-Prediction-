@@ -13,7 +13,7 @@ import seaborn as sns
 
 """Loading the Data set"""
 
-df = pd.read_csv('https://drive.google.com/file/d/14-klXzHCdcZ5ybaMZuz81MVE6MGKrehD/view?usp=drive_link')
+df = pd.read_csv('CAR DETAILS (1).csv')
 
 """Understand the data"""
 
