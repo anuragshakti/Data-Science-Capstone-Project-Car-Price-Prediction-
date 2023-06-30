@@ -4,7 +4,7 @@ This repository contains code and resources for predicting car prices
 based on various features using machine learning techniques.
 
 Dataset: The dataset used for this project is sourced from \[CAR
-DETAILS\](https://www.example.com). It contains information about cars,
+DETAILS\]. It contains information about cars,
 including their specifications and selling prices.
 
 Files: - data_preparation.ipynb: Jupyter Notebook file for data loading,
